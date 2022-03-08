@@ -4,8 +4,10 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/engam/AndroidStudioProjects/SearchBarInRecyclerView/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/engam/AndroidStudioProjects/SearchBarInRecyclerView/app/src/main/res/layout/view_holder_carocell.xml" value="0.4" />
         <entry key="..\:/Users/engam/AndroidStudioProjects/SearchBarInRecyclerView/app/src/main/res/layout/view_holder_categories.xml" value="0.1" />
         <entry key="..\:/Users/engam/AndroidStudioProjects/SearchBarInRecyclerView/app/src/main/res/layout/view_holder_home_cell.xml" value="0.16847826086956522" />
+        <entry key="..\:/Users/engam/AndroidStudioProjects/SearchBarInRecyclerView/app/src/main/res/layout/view_holder_title.xml" value="0.2" />
       </map>
     </option>
   </component>
