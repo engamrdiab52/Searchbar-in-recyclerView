@@ -12,7 +12,7 @@ class MainActivity : AppCompatActivity() {
     private lateinit var binding: ActivityMainBinding
     private lateinit var recyclerView: EpoxyRecyclerView
     private lateinit var layoutManager: LinearLayoutManager
-    private val myList = listOf("0", "1","2","3","4","5","6","7")
+    private val myList = listOf("0", "1","2","3","4","5","6","7","0", "1","2","3","4","5","6","7","0", "1","2","3","4","5","6","7")
     private val homeEpoxyController by lazy {
         HomeEpoxyController()
     }
